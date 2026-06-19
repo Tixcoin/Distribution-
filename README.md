@@ -1,4 +1,4 @@
-# Tokenomics & Distribution Framework
+# Crypto-assets & Distribution Framework
 
 > **Total Maximum Supply:** `100,000,000,000` (100 Billion) Tokens
 
