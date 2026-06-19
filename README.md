@@ -1,36 +1,67 @@
-# Tixcash Chain
+# Tokenomics & Distribution Framework
 
-- **Total Supply**: 100 Billion (Fixed)
-- **Transparency**: Open-source code hosted on a dedicated GitHub repository; all transactions and issuance are verifiable via the blockchain explorer.
-
----
-
-## I. Token Distribution & Allocation
-
-### 1. Node Mining Rewards (10%)
-Allocated for validation node rewards, full node mining incentives, and bookkeeping (consensus) earnings to ensure network security.
-
-### 2. Technical Reserve (10%)
-Dedicated to laboratory R&D, core protocol development, and long-term technical maintenance.
-
-### 3. Staking & Incentives Pool (50%)
-- **Core Utility**: Supports staking mining for global VIP smart contracts.
-- **Ecosystem Growth**: Includes "Red Envelope" user acquisition, Whitelist staking, Fitness Club mining, and rewards for charitable donations.
-- **Operational Support**: Funding for community training and exchange listing/opening expenses.
-
-### 4. Foundation Fund (13%)
-Reserved for global market expansion, strategic management, and long-term ecosystem maintenance.
-
-### 5. Ecosystem & Community Development (15%)
-- **On-chain Mall (10%)**: Support for merchant recruitment and shareholder staking rewards.
-- **Community Building (5%)**: Incentives for community setup and service center staking rewards.
-
-### 6. Pre-mine & Airdrops (2%)
-Initial seed assets for global user airdrops and regional market launch support.
+> **Total Maximum Supply:** `100,000,000,000` (100 Billion) Tokens
 
 ---
 
-## II. Launch Mechanism & Rules
+## I. Mainnet Allocation & Locked Assets
 
-- **Exchange Listing Trigger**: Trading on external exchanges will be automatically initiated once 80% of the supply is held by a consensus group of 30,000 merchants and participants globally.
-- **Verification**: All distribution follows the mainnet locking protocol and is fully auditable via the official blockchain explorer.
+### 1. Node Mining Rewards — `10%`
+
+- Validator node mining expenditures
+- Full node mining expenditures
+- Block rewards and consensus yields
+
+### 2. Technical Team & Development Reserves — `10%`
+
+- Laboratory R&D, ongoing technical development, and network maintenance
+
+### 3. Staking & Yield Rewards — `50%`
+
+- Global users participating in **VIP Staking Smart Contracts**
+- **"Red Packet"** marketing and user-retention campaigns
+- Whitelist Staking Mining
+- Fitness Club Staking Mining
+- Donation-incentive rewards
+- Community Training & Education Funds
+- Exchange liquidity and onboarding incentives
+
+### 4. Foundation Reserves — `13%`
+
+- Long-term market growth, ecosystem management, and operations
+
+### 5. Community Development & Ecosystem Growth Fund — `15%`
+
+| Sub-Allocation | Share | Purpose |
+| --- | --- | --- |
+| On-Chain Mall Merchant Onboarding | `10%` | Merchant incubation/support and shareholder staking rewards |
+| Community Building | `5%` | DAO/community incubation support and Community Service Center staking rewards |
+
+### 6. Pre-Mining / Genesis Block — `2%`
+
+- Global airdrops, including initial seed capital/tokens for early miners
+- Regional market launch campaigns and localized airdrop support
+
+---
+
+## Allocation Summary
+
+| # | Category | Allocation |
+| --- | --- | ---: |
+| 1 | Node Mining Rewards | `10%` |
+| 2 | Technical Team & Development Reserves | `10%` |
+| 3 | Staking & Yield Rewards | `50%` |
+| 4 | Foundation Reserves | `13%` |
+| 5 | Community Development & Ecosystem Growth Fund | `15%` |
+| 6 | Pre-Mining / Genesis Block | `2%` |
+| | **Total** | **`100%`** |
+
+---
+
+> ### 🔒 Launch Protocol Note
+>
+> All **100 billion** cryptographic assets are fully locked on the mainnet.
+> The automated exchange listing and launch protocol triggers **automatically** once:
+>
+> - **80%** of total supply has entered the circulating global market, **and**
+> - Distribution reaches at least **30,000** unique merchants and holders.
